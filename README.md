@@ -1,7 +1,7 @@
-#Projeto Pixel Art
-## Realizado pelo curso de Desenvolvimento Web Full Stack pela Trybe
+## Projeto Pixel Art
+### Realizado pelo curso de Desenvolvimento Web Full Stack pela Trybe - Módulo Fundamentos
 
-## :rocket: Tecnologias usadas:
+### :rocket: Tecnologias usadas:
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
@@ -10,5 +10,9 @@
 </div>
 
 <br>
-<br>
-<img align="center" alt="Pixel-Art" src="./img/Pixel-Art.gif" />
+<img width="400" height="400"  align="center" alt="Pixel-Art" src="./img/Pixel-Art.gif" />
+
+---
+
+### Acesse pelo Deploy - Link abaixo:
+https://vercel.com/adriana-coderstar/pixel-art
