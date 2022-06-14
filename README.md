@@ -15,4 +15,4 @@
 ---
 
 ### Acesse pelo Deploy - Link abaixo:
-https://vercel.com/adriana-coderstar/pixel-art
+https://pixel-art-cyan.vercel.app/
